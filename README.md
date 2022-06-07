@@ -13,7 +13,7 @@ Scan dulu trus ambil sessionnya
 ```
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/itsmedell" width="200" height="200"/>
+<img src="https://avatars.githubusercontent.com/MasRiizzz" width="200" height="200"/>
 </p>
 <p align="center">
   <a href="https://siegrin.github.io"><img src="http://readme-typing-svg.herokuapp.com?color=0000ff&center=true&vCenter=true&multiline=false&lines=Thank+for+using+Cloud+Bot+" alt="Asu">
